@@ -6,4 +6,4 @@ Use Python 3
 3. Install the python module for memcached (python3-memcached)
 4. Install Tweepy
 5. Start the server for memcached
-6. Run 'python twitter_stream_download_cache.py -keyword' from your terminal
+6. Run 'python twitter.py -keyword' from your terminal
